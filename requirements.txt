@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+textblob
+vaderSentiment
+praw
+python-dotenv
